@@ -1,4 +1,4 @@
-module github.com/shomali11/parallelizer
+module github.com/sunshibao/parallelizer
 
 go 1.15
 

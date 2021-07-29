@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/shomali11/parallelizer"
+	"github.com/sunshibao/parallelizer"
 )
 
 func main() {

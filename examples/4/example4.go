@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/shomali11/parallelizer"
+	"github.com/sunshibao/parallelizer"
 )
 
 func main() {
